@@ -1,7 +1,7 @@
 # Учебный проект «Угадай мелодию» [![Build status][travis-image]][travis-url]
 
 * Студент: [Ольга Васильева](https://up.htmlacademy.ru/react/1/user/237868).
-* Наставник: `Неизвестно`.
+* Наставник: [Константин Каруна](https://htmlacademy.ru/profile/id74977).
 
 ---
 
